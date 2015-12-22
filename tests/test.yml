@@ -1,5 +1,8 @@
 ---
 - hosts: localhost
-  remote_user: root
+
+  vars:
+    nginx_remove_default_vhost: false
+  
   roles:
-    - ansible-role-nginx
+    - role_under_test

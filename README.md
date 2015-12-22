@@ -1,6 +1,6 @@
 # Ansible Role: Nginx
 
-[![Build Status](https://travis-ci.org/geerlingguy/ansible-role-nginx.svg?branch=master)](https://travis-ci.org/geerlingguy/ansible-role-nginx)
+[![Build Status](https://travis-ci.org/setswei/ansible-role-nginx.svg?branch=master)](https://travis-ci.org/setswei/ansible-role-nginx) ![Build Status](http://bamboo.cybercrysis.net.au/plugins/servlet/wittified/build-status/SVR-AN)
 
 Installs Nginx on RedHat/CentOS or Debian/Ubuntu linux servers.
 
